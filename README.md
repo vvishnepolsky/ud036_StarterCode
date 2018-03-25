@@ -1,2 +1,2 @@
 # ud036_StarterCode
-Source code for a Movie Trailer website.
+To Initiate the website navigate to the main directory of the code

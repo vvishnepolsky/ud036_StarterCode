@@ -1,5 +1,10 @@
 # Fresh Tomatoes Movie Trailers
-Fresh Tomatoes Movie Trailer is server side code written in python that displays your favorite movie details along with a description, box art, and a link to the movie trailer.
+Fresh Tomatoes Movie Trailer is server side code written in `python` that displays your favorite movie details along with a description, box art, and a link to the movie trailer.
+
+## Software Dependancies
+Fresh Tomatoes Movie Trailer requires one of the following web browsers to operate:
+* `Chrome >= v. 65.0`
+* `Safari >= v. 11.0 `
 
 ## Installation
 To run:
